@@ -1,0 +1,17 @@
+# === BACKEND JAVA / SPRING BOOT ===
+target/
+*.log
+*.class
+*.jar
+
+# === FRONTEND ANGULAR ===
+node_modules/
+dist/
+
+# === IDEs y otros ===
+.vscode/
+.idea/
+.DS_Store
+
+# === Archivos sensibles ===
+.env
